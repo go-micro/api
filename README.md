@@ -28,3 +28,6 @@ Run (listens on :8080)
 api
 ```
 
+## TODO
+
+- Enable changing registry, client/server, etc
