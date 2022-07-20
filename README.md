@@ -10,7 +10,7 @@ The API gateway dynamically serves requests via HTTP json to go-micro services u
 
 The request http://localhost:8080/helloworld/call will route to the service `helloworld` and endpoint `Helloworld.Call`.
 
-For differing handlers
+### For differing handlers
 
 The request http://localhost:8080/helloworld/Greeter/Call will route to the service `helloworld` and endpoint `Greeter.Call`
 
