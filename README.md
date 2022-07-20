@@ -31,3 +31,4 @@ api
 ## TODO
 
 - Enable changing registry, client/server, etc
+- Enable setting endpoints manually via RPC
