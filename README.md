@@ -6,7 +6,7 @@ An api gateway for Go Micro services
 
 The API gateway dynamically serves requests via HTTP json to go-micro services using path based resolution.
 
-Example
+## Example
 
 The request http://localhost:8080/helloworld/call will route to the service `helloworld` and endpoint `Helloworld.Call`.
 
